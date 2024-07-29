@@ -1,0 +1,1 @@
+# swtr-mint-perc20
